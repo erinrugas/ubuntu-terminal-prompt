@@ -32,7 +32,7 @@ vim ~/.bashrc
 Add the following line at the end of .bashrc
 
 ```bash
-source ~/ubuntu-terminal-prompt/terminal.sh
+source /path/to/ubuntu-terminal-prompt/terminal.sh
 ```
 
 
