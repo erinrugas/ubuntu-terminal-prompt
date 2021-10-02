@@ -18,6 +18,10 @@ git clone https://github.com/erinrugas/ubuntu-terminal-prompt.git
 
 Download and Install [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads). Be sure to install it because we will need it for our icons in terminal.
 
+Once it's already installed, You need to update the font face in your terminal properties and select FiraCode Nerd Font
+
+![sample_image](https://i.imgur.com/Yuyadvf.png)
+
 
 Edit .bashrc in your text editor
 
@@ -37,6 +41,7 @@ and source your.bashrc
 ```bash
 source ~/.bashrc
 ```
+
 
 #### *NOTE: This scripts is my personal use. Fork it if you want to modify or update the shell script once you clone it.*
 
