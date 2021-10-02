@@ -2,8 +2,11 @@
 
 My personal ubuntu based terminal prompt.
 
+It includes the git branch that you currently working at.
+
+
 ## Sample
-![alt text](https://i.imgur.com/YM6IMx7.png)
+![sample_image](https://i.imgur.com/YM6IMx7.png)
 
 ## Installation
 
